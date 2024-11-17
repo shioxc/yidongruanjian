@@ -1,2 +1,2 @@
 # NotePad
-This is an AndroidStudio rebuild of google SDK sample NotePad
+添加时间戳和搜索，排序，更换背景，每个文本单独保存各自的背景
