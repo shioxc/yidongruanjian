@@ -133,7 +133,7 @@ adapter = new NotesAdapter(
 setListAdapter(adapter);
 ```
 
-​				![image-20241204180641030](C:\Users\shioyo\Documents\GitHub\yidongruanjian\NotePad-master\时间戳.png)
+![1](C:\Users\shioyo\Documents\GitHub\yidongruanjian\NotePad-master\1.png)
 
 ## 	2.搜索
 
