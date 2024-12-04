@@ -1,4 +1,4 @@
-## 1.添加内容
+## 添加内容
 
 ​		1.时间戳
 
@@ -133,7 +133,7 @@ adapter = new NotesAdapter(
 setListAdapter(adapter);
 ```
 
-![1](C:\Users\shioyo\Documents\GitHub\yidongruanjian\NotePad-master\1.png)
+![1.png](1.png)
 
 ## 	2.搜索
 
@@ -226,7 +226,7 @@ setListAdapter(adapter);
     }
 ```
 
-![搜索](C:\Users\shioyo\Documents\GitHub\yidongruanjian\NotePad-master\搜索.png)
+![2.png](2.png)
 
 ## 	3.排序
 
@@ -268,9 +268,8 @@ private void sortNotes(String sortOrder) {
 }
 ```
 
-![排序1](C:\Users\shioyo\Documents\GitHub\yidongruanjian\NotePad-master\排序1.png)
-
-![排序2](C:\Users\shioyo\Documents\GitHub\yidongruanjian\NotePad-master\排序2.png)
+![3.png](3.png)
+![4.png](4.png)
 
 ## 	4.更换背景
 
@@ -426,6 +425,5 @@ String savedColor = sharedPreferences.getString("bg_color_"+noteid, "#FFFFFF");
 mText.setBackgroundColor(Color.parseColor(savedColor));
 ```
 
-![更换背景](C:\Users\shioyo\Documents\GitHub\yidongruanjian\NotePad-master\更换背景.png)
-
-![更换背景1](C:\Users\shioyo\Documents\GitHub\yidongruanjian\NotePad-master\更换背景1.png)
+![5.png](5.png)
+![6.png](6.png)
