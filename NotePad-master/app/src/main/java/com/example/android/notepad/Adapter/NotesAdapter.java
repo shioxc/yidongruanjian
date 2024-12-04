@@ -25,7 +25,6 @@ public class NotesAdapter extends CursorAdapter {
 
     @Override
     public View newView(Context context, Cursor cursor, ViewGroup parent) {
-        // Inflate a new view for each item
         return inflater.inflate(R.layout.noteslist_item, parent, false);
     }
 
